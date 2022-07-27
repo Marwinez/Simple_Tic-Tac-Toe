@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+- name: inne
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/6534#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 02 Feb 2022 17:11:35 UTC
+record: -1

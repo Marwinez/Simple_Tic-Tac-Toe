@@ -1,0 +1,16 @@
+elif money % goat_cost < rest:
+    animal = "goat"
+    count = money // goat_cost
+    rest = money - money % goat_cost
+elif money % pig_cost < rest:
+    animal = "pig"
+    count = money // pig_cost
+    rest = money - money % pig_cost
+elif money % cow_cost < rest:
+    animal = "cow"
+    count = money // cow_cost
+    rest = money - money % cow_cost
+elif money % sheep_cost < rest:
+    animal = "sheep"
+    count = money // sheep_cost
+    rest = money - money % sheep_cost
